@@ -31,4 +31,6 @@ with comments !
 
 Now you can watch your movie as it is downloaded !!
 
-Voila !
+**Voila !**
+
+![alt text](readmeHypertube/logan.png "Just logan in 1080p")
